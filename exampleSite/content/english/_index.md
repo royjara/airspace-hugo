@@ -8,7 +8,7 @@ banner:
     ingredients sourced in Peru.
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover Our Products
     link: project
 about:
   enable: true
