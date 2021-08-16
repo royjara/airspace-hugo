@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/sea-1599183_1280.jpg
   bg_overlay: true
   title: Fresh Foods <br/> for a Better Planet
   content: We are devoted to creating sustainable food products, using the freshest
