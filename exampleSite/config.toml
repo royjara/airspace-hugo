@@ -1,5 +1,5 @@
 baseURL = "http://freshplanetfood-dev.netlify.org"
-disableLanguages = []
+disableLanguages = ["Deutsch", "it"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
