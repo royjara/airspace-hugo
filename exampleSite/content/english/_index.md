@@ -13,16 +13,18 @@ banner:
 about:
   enable: true
   title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  description: Gervasi Perú S.A.C., significa experiencia, siendo experto en el mercado
+    internacional con ventas a los mercados de América del Norte, Centro y Sur, Europa
+    y Asia.
+  content: Somos una empresa peruana que inicia sus operaciones en 1987 para cubrir
+    las necesidades de consumo humano directo de productos marinos del Perú y del
+    Mundo, ofreciendo a sus clientes la más alta calidad de productos marinos congelados
+    y conservas con el apoyo de normas ISO 9000 y el sistema HACCP y la continua aplicación
+    de tecnologías innovadoras basadas en el concepto de calidad total.
   image: images/wrapper-img.png
+  button:
+    enable: true
+    label: boton about
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
