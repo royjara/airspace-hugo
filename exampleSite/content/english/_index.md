@@ -64,14 +64,14 @@ funfacts:
   - icon: ion-ios-chatbox-outline
     name: Paises de Nuestros Clientes
     count: "99"
-  - icon: ion-ios-glasses-outline
-    name: Article Written
+  - icon: ion-ios-person-outline
+    name: Clientes Satisfechos
     count: "45"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
+    name: Tons of fished processed
     count: "125"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
+    name: Artisanal Fisherman Network
     count: "200"
   testimonial_slider:
   - name: Raymond Roy
