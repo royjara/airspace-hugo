@@ -6,7 +6,7 @@ paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
 timeZone = "UTC"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Fresh Planet Food | Home"
 [languages.de]
 contentDir = "content/german"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Alle Rechte vorbehalten."
@@ -38,14 +38,14 @@ hasChildren = true
 name = "Plus"
 weight = 5
 [languages.it]
-contentDir = "content/italian"
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tutti i diritti riservati."
-languageCode = "it-IT"
-languageName = "Italiano"
+contentDir = "content/spanish"
+copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Todos los derechos reservados."
+languageCode = "es-ES"
+languageName = "Español"
 weight = 2
 [[languages.it.menu.main]]
 hasChildren = true
-name = "Più"
+name = "Más"
 weight = 5
 [markup.goldmark.renderer]
 unsafe = true
